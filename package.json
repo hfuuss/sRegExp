@@ -1,0 +1,19 @@
+{
+  "name": "sregexp",
+  "version": "1.0.0",
+  "description": "regexp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuuss/sRegExp.git"
+  },
+  "author": "hfuuss <ss@hfuusec.cn> (http://i.getshell.cn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hfuuss/sRegExp/issues"
+  },
+  "homepage": "https://github.com/hfuuss/sRegExp#readme"
+}
